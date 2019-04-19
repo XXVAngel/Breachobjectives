@@ -254,3 +254,6 @@ HOW TO DEAL WITH NINE TAILED FOX
 2. BAIT THEM INTO SCP-049 OR SCP-106, THEY WILL RUN AWAY FROM THEM.
 
 3. HIDE FROM THEM WHILE THEY PASS AN AREA, YOU CAN ALSO BAIT THEM AND HIDE TO PASS AN AREA THEY PATROL.
+
+
+If you can't find SCP-008, SCP-106's chamber or SCP-079's chamber. Go back to LCZ and hug the wall with the checkpoints. Due to how zones work, there might be exclaves of HCZ but they also share the same wall. (See Map Creator for better understanding)
