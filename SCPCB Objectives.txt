@@ -1,0 +1,256 @@
+Good Seeds
+
+LIGHT CONTAINMENT
+
+CURRENT HOSTILE SCP SUBJECTS:
+
+	SCP-173 (Peanut)
+
+	SCP-079 (Computer)
+
+	SCP-106 (Old Man/Larry) (After a while)
+
+	SCP-049 (Plague Doctor) (Surveillance Room)
+
+	SCP-939 (Doggos) (Storage Area 6)
+
+
+1. Acquire a level 3+ Keycard (SCP-106 will start appearing shortly after leaving SCP-173's containment chamber)
+
+2. Enter the Surveillance Room and disable the checkpoint lockdown (Activates SCP-049, SCP-714 recommanded)
+
+	Optional objectives:
+
+		Retrieve the Night Vision Goggles from Storage Area 6 (Elevators) LOOK OUT FOR SCP-939 (Doggos)
+
+		Acquire a Gas Mask
+
+		Acquire SCP-1499 (Russian Gas Mask) to despawn SCP-106 (Old Man/Larry), also makes speeds up the movements of Nine Tailed Fox and SCP-939 (Doggo)
+
+		Acquire SCP-714 (Jade Ring) to become immune to SCP-049 (Plague Doctor) for several seconds
+
+		Acquire SCP-860 (Blue Key) to open the wooden door inside Entrance Zone
+
+		Acquire SCP-427 (Locket) to slowly heal yourself DANGER: AFTER WEARING THE LOCKET FOR 7 MINUTES, YOU WILL DIE!
+		
+		Upgrade Equipment using SCP-914 (Machine) (DO NOT GET INSIDE SCP-914! UNLIKE SCP:SL GETTING INSIDE SCP-914 ON ANY SETTINGS EXEPT 1:1 KILLS YOU. 1:1 REVERSES YOUR CONTROLS)
+
+			Leave your items inside SCP-914, no one can pick them up
+
+			Coarse
+			Mastercard -> Coarse -> Quarter (4)
+
+			Fine
+			Quarter/Playing card -> Fine -> Level 2 Keycard
+			Keycard(x) -> Fine -> Keycard(x+1)/Playing Card
+			First Aid Kit -> Fine -> Small First Aid Kit (Note: Small heals more than normal)
+			Night Vision Goggles -> Fine -> Red Night Vision Goggles (Doesn't change name but doesn't need battery either)
+			Radio -> Fine -> Radio (Doesn't take battery)
+			Gas Mask -> Fine -> Super Gas Mask (Infinite run)
+			
+			Very Fine
+			Keycard -> Very Fine -> Mastercard
+			Gas Mask -> Very Fine -> Super Gas Mask (Exact same thing)
+			S-Nav -> Very Fine -> S-Nav Ultimate (Does not take battery, shows every room on the map and show nearby hostile SCPs)
+			Night Vision Goggles -> Very Fine -> Blue Night Vision Goggles (Takes battery unlike the red ones but shows every organic life forms on the map)
+
+
+3. Enter Heavy Containment Zone
+
+
+HEAVY CONTAINMENT 1/2
+
+CURRENT HOSTILE SCP SUBJECTS:
+
+	SCP-173 (Peanut)
+
+	SCP-079 (Computer)
+
+	SCP-106 (Old Man/Larry) (If not recontained by you)
+
+	SCP-049 (Plague Doctor) (If you didn't skip surveillance via pocket dimension, otherwise appears in his chamber)
+
+	SCP-966 (Invisible Fucks) (After a while)
+
+	SCP-096 (Shy Guy) (After his event)
+
+OTHER HOSTILE
+
+	SCP-049-1 (Zombie)
+
+
+1. Acquire Level 4+ Keycard (Bypassed if acquired in SCP-914) (Encounter an instance of SCP-966 for the first time)
+
+2. Recontain SCP-008 (Will Most likely be after SCP-096's first encounter)
+
+3. Acquire Level 5 Keycard (Bypassed if acquired in SCP-914)
+
+	Optional Objectives
+
+		Free SCP-035 (Mask), he will tell you useful information if you don't gas him
+
+		Recontain SCP-106 (Old Man/Larry)
+
+			INSTRUCTIONS:
+					DESACTIVATE MAGNET SWITCH (ELO-IID magnetics)
+					ACTIVATE INTERCOM
+					ACTIVATE FEMUR BREAKER
+					REACTIVATE THE MAGNET SWITCH (ELO-IID magnetics) WHEN SCP-106 APPEARS IN THE CAMERA SCREEN (Will also be heard through intercom)
+						Optional: Shut down intercom
+	
+		Acquire SCP-500 (Pill that heal anything) in Maintenance Tunnels
+		
+		Desactivat Alpha and Omega warheads
+		
+		Acquire Balistic Vest
+
+4.Enter Entrance Zone
+
+
+ENTRANCE ZONE 1/2
+
+CURRENT HOSTILE SCP SUBJECTS:
+
+	SCP-173 (Peanut) (If not recontained by Nine Tailed Fox)
+
+	SCP-079 (Computer)
+
+	SCP-106 (Old Man/Larry) (If not recontained by you)
+
+	SCP-049 (Plague Doctor) (If you didn't skip surveillance via pocket dimension, otherwise appears in his chamber)
+
+	SCP-966 (Invisible Fucks)
+
+	SCP-096 (Shy Guy) (Rarely leaves HCZ)
+
+OTHER HOSTILES:
+
+	Mobile Task Force Unit Epsilon-11 (Nine Tailed Fox)
+
+	SCP-049-1 (Zombies) (Only in SCP-049's Chamber)
+
+	Infected (SCP-008's effects) (Only inside Medbay)
+
+EVENT:
+	MOBILE TASK FORCE UNIT EPSILON-11 DESIGNATED NINE TAILED FOX HAS ENTERED THE FACILITY, ALL REMAINING SURVIVORS ARE ADVISED TO STAY IN THE EVACUATION SHELTER OR ANY OTHER SAFE AREA UNTIL THE UNIT HAS SECURED THE FACILITY. WE WILL START ESCORTING PERSONNEL OUT WHEN THE ESCAPED SCPS WILL BE RECONTAINED.
+
+1. Desactivate Remote Door Control inside Electrical Center
+
+2. Reactivate Secondary Lightning
+
+	Optional Objectives:
+
+		Use SCP-860 (Blue key) on a wooden door and go to SCP-860-1 (DON'T STAY TOO LONG, OTHERWISE SCP-860-2 WILL ATTACK)
+
+		Visit Dr L's office.
+
+		Visit the Medical Bay (Look out for SCP-008 infected)
+
+		Visit Dr. Maynard's Office
+
+		Visit Dr. Harp's Office
+
+		Visit Head Office and Retrieve SCP-420-J
+
+		Try out SCP-294 (Coffee Machine) List of commands: https://scpcb.gamepedia.com/SCP-294/outputs Watch out for SCP-066 (Eye spaghetti) he'll earape Beethoven'Second Symphony
+
+3. Return to Heavy Containment Zone
+
+
+HEAVY CONTAINMENT 2/2
+
+CURRENT HOSTILE SCP SUBJECTS:
+
+	SCP-173 (Peanut) (If not recontained by Nine Tailed Fox)
+
+	SCP-079 (Computer)
+
+	SCP-106 (Old Man/Larry) (If not recontained by you)
+
+	SCP-049 (Plague Doctor) (If you didn't skip surveillance via pocket dimension, otherwise appears in his chamber)
+
+	SCP-966 (Invisible Fucks)
+
+	SCP-096 (Shy Guy)
+
+OTHER HOSTILES:
+
+	Mobile Task Force Unit Epsilon-11 (Nine Tailed Fox) (If not terminated by SCP-049)
+
+	SCP-049-1 (Zombies) (Only in SCP-049's Chamber)
+
+1. Confront SCP-079 inside his Containment Chamber
+
+2. Return to Entrance Zone
+
+
+ENTRANCE ZONE 2/2
+
+CURRENT HOSTILE SCP SUBJECTS:
+
+	SCP-173 (Peanut) (If not recontained by Nine Tailed Fox)
+
+	SCP-079 (Computer)
+
+	SCP-106 (Old Man/Larry) (If not recontained by you)
+
+	SCP-049 (Plague Doctor) (If you didn't skip surveillance via pocket dimension, otherwise appears in his chamber)
+
+	SCP-966 (Invisible Fucks)
+
+	SCP-096 (Shy Guy)
+
+OTHER HOSTILES:
+
+	Mobile Task Force Unit Epsilon-11 (Nine Tailed Fox)
+
+	Infected (SCP-008's effects) (Only in Medbay)
+
+1. Go back to Electrical Center and turn Remote Door Control back on
+
+2. Escape through either Gate A or Gate B
+
+
+ENDINGS
+
+There are 4 different Endings
+
+1. Enter Gate A without having Recontained SCP-106
+
+2. Enter Gate A with SCP-106 Recontained
+
+3. Enter Gate B with the Warheads activated
+
+4. Enter Gate B with the Warheads desactivated
+
+
+HOW TO DEAL WITH EVERY SCP SUBJECTS:
+
+SCP-049: PUT ON SCP-714 AND RUN, HE WILL REMOVE THE RING IF YOU STAND TOO LONG NEXT TO HI, HE WALKS SLOWLY BUT DO NOT GET CORNERED. AS OF PATCH 1.3.10, YOU CAN RUN IN CIRCLES TO KEEP HIM FROM TAKING SCP-714 OFF!
+
+SCP-049-2: JUST WALK AROUND IT, MTF WILL KILL THEM ON SIGHT.
+
+SCP-079: DOES NOT DIRECTLY ATTACK THE PLAYER. PUT ON SCP-714 IF IT OPEN THE DOORS TO SCP-012 AND LOOK AWAY IF THE COMPUTER SCREENS DISPLAY IMAGERY OF SCP-895!
+
+SCP-096: DO NOT LOOK AT IT'S FACE, THAT THING IS ALMOST GUARANTIED DEATH, THE ONLY EXEPTION IS MAKING HIM RUN INTO A TESLA GATE AND RUNNING TO AN EXIT BUT IT'S NOT GUARANTIED TO WORK.
+
+SCP-106: INSTANTLY DESPAWNS IF SCP-1499 IS USED, OTHERWISE TIME HIM OUT OR MAKING HIM RUN INTO A TESLA GATE! HIS TOUCH IS NOT INSTANT KILL!
+
+SCP-173: MUST MAINTAIN EYE CONTACT, IT CANNOT OPEN DOORS, SO CLOSE THEM AND BAIT IT TO THE MTFS WHEN THEY APPEAR!
+
+SCP-895: JUST DON'T GET IN IT'S CHAMBER. THERES NOTHING THERE! MONITORS KILL YOU!
+
+SCP-939: THEY WALK IN CIRCLES BUT STOP IF YOU GET TOO CLOSE, WAIT UNTIL THE WAY IS CLEAR AND USE THEIR VOICE TO KNOW WHERE THEY ARE!
+
+SCP-966: USE THE NIGHT VISION GOGGLES TO SEE WHERE THEY ARE, WATCHOUT FOR DOORWAYS BECAUSE THEY LOVE TO BODYBLOCK THEM. THEY DO NOT DEAL ALOT OF DAMAGE BUT ENOGUH TO SLOW YOU DOWN FOR THE OTHER SCPS TO KILL YOU!
+
+SCP-1048-A: GET AWAY FROM THAT TEDDYBEAR LOOKIN ASS. HIS SHRIEK WILL KILL YOU IF YOU STAY TOO CLOSE FOR 20 SECONDS.
+
+
+HOW TO DEAL WITH NINE TAILED FOX
+
+1. IF SCP-173 HAS NOT BEEN CONTAINED, BAIT IT UNTO MTF SQUAD E-11. THEY WILL IGNORE YOU (UNTIL IT'S IN TEMPORARY CONTAINEMENT) AND BRING HIM ALL THE WAY TO ITS CHAMBER (SPAWN)
+
+2. BAIT THEM INTO SCP-049 OR SCP-106, THEY WILL RUN AWAY FROM THEM.
+
+3. HIDE FROM THEM WHILE THEY PASS AN AREA, YOU CAN ALSO BAIT THEM AND HIDE TO PASS AN AREA THEY PATROL.
