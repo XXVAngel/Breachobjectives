@@ -36,21 +36,23 @@ You start in this area of the game.
 
 ### SCP-914
 This is an SCP that requires a level 2 keycard to enter.  It is the most useful SCP in the game.
+
+
 |Item|Setting|Result|
 |---|---|---|
-|Mastercard|Coarse|4 Quarters
-|Quarter|Fine|Level 2 Keycard
-|Playing Card|Fine|Level 2 Keycard
-|Keycard X|Fine|Keycard (X+1)|
-|Keycard X|Fine|Playing Card|
-|First Aid Kit|Fine|Small First Aid Kit|
-|Night Vision Goggles|Fine|(Red) Night Vision Goggles [No Battery]|
-|Radio|Fine|Radio [No battery]|
-|Gas Mask|Fine|Super Gas Mask [Infinite Run]|
-|Keycard|Very Fine|Mastercard|
-|Gas Mask|Very Fine|Super Gas Mask|
-|S-Nav|Very Fine|S-Nav Ultimate|
-|Night Vision Goggles|Very Fine|(Blue) Night Vision Goggles [Shows organic life]|
+|Mastercard           |Coarse|    4 Quarters|
+|Quarter              |Fine|      Level 2 Keycard|
+|Playing Card         |Fine|      Level 2 Keycard|
+|Keycard X            |Fine|      Keycard \(X+1)|
+|Keycard X            |Fine|      Playing Card|
+|First Aid Kit        |Fine|      Small First Aid Kit|
+|Night Vision Goggles |Fine|      \(Red) Night Vision Goggles \(No Battery)|
+|Radio                |Fine|      Radio (No battery)|
+|Gas Mask             |Fine|      Super Gas Mask \(Infinite Run)|
+|Keycard              |Very Fine| Mastercard|
+|Gas Mask             |Very Fine| Super Gas Mask|
+|S-Nav                |Very Fine| S-Nav Ultimate|
+|Night Vision Goggles |Very Fine| \(Blue) Night Vision Goggles \(Shows organic life)|
 
 
 ## Heavy Containment Zone 1/2
