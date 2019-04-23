@@ -22,7 +22,7 @@ You start in this area of the game.
   - This is not an SCP but the game has a mechanic in which the player can turn 180 degrees on the spot in the hallways in the Light Containment Zone.  This can lead to your death if you are running away from something.  A sound que will occur when this happens.
 
 ### Objectives
-1. Acquire a Level 3+ Keyboard (SCP-106 will start appearing shortly after leaving SCP-173's containment chamber)
+1. Acquire a Level 3+ Keycard (SCP-106 will start appearing shortly after leaving SCP-173's containment chamber)
 2. Enter the Surveillance Room and disable the checkpoint lockdown (Activates SCP-049, SCP-714 recommended)
 3. Enter heavy containment
 
@@ -112,6 +112,7 @@ MOBILE TASK FORCE UNIT EPSILON-11 DESIGNATED NINE TAILED FOX HAS ENTERED THE FAC
 ### Objectives
 1. Deactivate Remote Door Control inside Electrical Center
 2. Reactivate Secondary Lighting
+3. Return to Heavy Containement Zone
 
 ### Optional Objectives
 - Use SCP-860 on the wooden door to enter SCP-860-1.
@@ -121,19 +122,18 @@ MOBILE TASK FORCE UNIT EPSILON-11 DESIGNATED NINE TAILED FOX HAS ENTERED THE FAC
 - Visit Head Office and get high as a kite
 - Visit the Medical Bay
 - Use SCP-294 in the cafeteria.  You need quarters to operate it.
-- Return to Heavy Containment
 
 
 ## Heavy Containment Zone 2/2
 Return to the Heavy Containment Zone to confront SCP-079
 
 ### Objectives
-1. Confront SCP-079 inside his Containment Chamber.
+1. Confront SCP-079 inside his Containment Chamber
 2. Return to Entrance Zone
 
 
 ## Entrance Zone 2/2
-Return to the entrance zone to complete the game.
+Return to the Entrance Zone for the last 
 
 ### Objectives
 1. Go to the Electrical Center and turn Remote Door Control back on
@@ -160,4 +160,4 @@ Some other useful tips.
 3. Hide from them while they pass.  You can also bait them and hide if you are passing through an area that they patrol.
 
 ### Exclaves
-Sometimes, the map generation can screw up and put SCP-008's, SCP-106's or SCP-079's chamber into the Light Containment Zone.
+Sometimes, the map generation can screw up and put SCP-008's, SCP-106's or SCP-079's chambers into an exclave only accessible through Light Containment Zone.
