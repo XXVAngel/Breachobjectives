@@ -43,8 +43,8 @@ This is an SCP that requires a level 2 keycard to enter.  It is the most useful 
 |Mastercard           |Coarse|    4 Quarters|
 |Quarter              |Fine|      Level 2 Keycard|
 |Playing Card         |Fine|      Level 2 Keycard|
-|Keycard X            |Fine|      Keycard \(X+1)|
-|Keycard X            |Fine|      Playing Card|
+|Keycard X            |Fine|      Chance for Keycard \(X+1)|
+|Keycard X            |Fine|      Chance for Playing Card|
 |First Aid Kit        |Fine|      Small First Aid Kit|
 |Night Vision Goggles |Fine|      \(Red) Night Vision Goggles \(No Battery)|
 |Radio                |Fine|      Radio (No battery)|
