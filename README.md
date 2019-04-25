@@ -53,7 +53,7 @@ This is an SCP that requires a level 2 keycard to enter.  It is the most useful 
 |Balistic Vest        |Fine|      Heavy Balistic Vest \(Caps stamina to 60% but tanks bullets well)|
 |Keycard              |Very Fine| Mastercard|
 |Gas Mask             |Very Fine| Super Gas Mask|
-|S-Nav                |Very Fine| S-Nav Ultimate \(Shows organic life|
+|S-Nav                |Very Fine| S-Nav Ultimate \(Shows organic life)|
 |Night Vision Goggles |Very Fine| \(Blue) Night Vision Goggles \(Shows organic life)|
 
 
