@@ -32,7 +32,7 @@ You start in this area of the game.
 - Acquire SCP-1499 (Russian Gas Mask) to despawn SCP-106
 - Acquire SCP-714 (Jade Ring) for immunity to SCP-049 for a few seconds
 - Acquire SCP-860 (Blue Key) to open the wooden door inside the Entrace Zone
-- Acquire SCP-427 (Locket) to slowly healy yourself.  Wearing to for 7 minutes will kill you
+- Acquire the wallet, it can hold keycards, quarters and the blue key
 
 ### SCP-914
 This is an SCP that requires a level 2 keycard to enter.  It is the most useful SCP in the game.
