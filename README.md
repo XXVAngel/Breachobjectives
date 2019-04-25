@@ -50,9 +50,10 @@ This is an SCP that requires a level 2 keycard to enter.  It is the most useful 
 |Radio                |Fine|      Radio (No battery)|
 |Gas Mask             |Fine|      Super Gas Mask \(Infinite Run)|
 |SCP-500-1            |Fine|      SCP-427 \(Slow Regen but death after 7 minutes)|
+|Balistic Vest        |Fine|      Heavy Balistic Vest \(Caps stamina to 60% but tanks bullets well)|
 |Keycard              |Very Fine| Mastercard|
 |Gas Mask             |Very Fine| Super Gas Mask|
-|S-Nav                |Very Fine| S-Nav Ultimate|
+|S-Nav                |Very Fine| S-Nav Ultimate \(Shows organic life|
 |Night Vision Goggles |Very Fine| \(Blue) Night Vision Goggles \(Shows organic life)|
 
 
