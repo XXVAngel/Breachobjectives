@@ -1,4 +1,3 @@
-Good Seeds
 
 LIGHT CONTAINMENT
 
@@ -31,7 +30,7 @@ CURRENT HOSTILE SCP SUBJECTS:
 
 		Acquire SCP-860 (Blue Key) to open the wooden door inside Entrance Zone
 
-		Acquire SCP-427 (Locket) to slowly heal yourself DANGER: AFTER WEARING THE LOCKET FOR 7 MINUTES, YOU WILL DIE!
+		Acquire the Wallet, it can hold keycards, quarters and the blue key
 		
 		Upgrade Equipment using SCP-914 (Machine) (DO NOT GET INSIDE SCP-914! UNLIKE SCP:SL GETTING INSIDE SCP-914 ON ANY SETTINGS EXEPT 1:1 KILLS YOU. 1:1 REVERSES YOUR CONTROLS)
 
@@ -47,6 +46,8 @@ CURRENT HOSTILE SCP SUBJECTS:
 			Night Vision Goggles -> Fine -> Red Night Vision Goggles (Doesn't change name but doesn't need battery either)
 			Radio -> Fine -> Radio (Doesn't take battery)
 			Gas Mask -> Fine -> Super Gas Mask (Infinite run)
+			SCP-500-1 -> Fine -> SCP-427 (Regen health, die after 7 min)
+			Balistic Vest -> Fine -> Heavy Balistic Vest (Caps your stamina to 60% but tanks more)
 			
 			Very Fine
 			Keycard -> Very Fine -> Mastercard
