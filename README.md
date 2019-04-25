@@ -1,5 +1,5 @@
 # SCP:CB Short Guide
-A guide to beating SCP: Containment Breach.
+A guide to beating SCP: Containment Breach for new players. 
 
 
 ## Light Containment Zone
@@ -45,10 +45,11 @@ This is an SCP that requires a level 2 keycard to enter.  It is the most useful 
 |Playing Card         |Fine|      Level 2 Keycard|
 |Keycard X            |Fine|      Chance for Keycard \(X+1)|
 |Keycard X            |Fine|      Chance for Playing Card|
-|First Aid Kit        |Fine|      Small First Aid Kit|
+|First Aid Kit        |Fine|      Small First Aid Kit\(Heals more for some reason)|
 |Night Vision Goggles |Fine|      \(Red) Night Vision Goggles \(No Battery)|
 |Radio                |Fine|      Radio (No battery)|
 |Gas Mask             |Fine|      Super Gas Mask \(Infinite Run)|
+|SCP-500-1            |Fine|      SCP-427 \(Slow Regen but death after 7 minutes)|
 |Keycard              |Very Fine| Mastercard|
 |Gas Mask             |Very Fine| Super Gas Mask|
 |S-Nav                |Very Fine| S-Nav Ultimate|
